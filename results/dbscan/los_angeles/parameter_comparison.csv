@@ -1,0 +1,5 @@
+eps_km,min_samples,clusters_found,noise_points,noise_pct,silhouette_score
+0.4,30,51,8462,56.41,0.4586
+0.6,40,34,5571,37.14,0.4137
+0.8,50,22,3717,24.78,0.2492
+1.2,60,5,1765,11.77,0.3498

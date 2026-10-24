@@ -1,0 +1,230 @@
+{
+  "Chicago": {
+    "name": "Chicago",
+    "n_clusters": 31,
+    "n_noise": 3471,
+    "noise_pct": 23.14,
+    "primary_param": {
+      "eps_km": 0.5,
+      "min_samples": 30
+    },
+    "top_clusters": [
+      {
+        "cluster_id": 0,
+        "size": 3283,
+        "pct_of_clustered_crimes": 28.48,
+        "median_latitude": 41.76836,
+        "median_longitude": -87.61349,
+        "extent_approx_km2": 134.777,
+        "estimated_density_per_km2": 24.4,
+        "top_categories": "BATTERY (648), THEFT (502), CRIMINAL DAMAGE (432)"
+      },
+      {
+        "cluster_id": 1,
+        "size": 5232,
+        "pct_of_clustered_crimes": 45.38,
+        "median_latitude": 41.88502,
+        "median_longitude": -87.68974,
+        "extent_approx_km2": 164.013,
+        "estimated_density_per_km2": 31.9,
+        "top_categories": "THEFT (1284), BATTERY (950), CRIMINAL DAMAGE (575)"
+      },
+      {
+        "cluster_id": 2,
+        "size": 54,
+        "pct_of_clustered_crimes": 0.47,
+        "median_latitude": 41.68016,
+        "median_longitude": -87.63592,
+        "extent_approx_km2": 1.443,
+        "estimated_density_per_km2": 37.4,
+        "top_categories": "BATTERY (11), ASSAULT (8), MOTOR VEHICLE THEFT (5)"
+      },
+      {
+        "cluster_id": 3,
+        "size": 270,
+        "pct_of_clustered_crimes": 2.34,
+        "median_latitude": 41.77653,
+        "median_longitude": -87.69104,
+        "extent_approx_km2": 9.144,
+        "estimated_density_per_km2": 29.5,
+        "top_categories": "BATTERY (59), THEFT (36), CRIMINAL DAMAGE (28)"
+      },
+      {
+        "cluster_id": 4,
+        "size": 146,
+        "pct_of_clustered_crimes": 1.27,
+        "median_latitude": 41.96817,
+        "median_longitude": -87.71703,
+        "extent_approx_km2": 4.882,
+        "estimated_density_per_km2": 29.9,
+        "top_categories": "BATTERY (43), THEFT (25), CRIMINAL DAMAGE (22)"
+      }
+    ]
+  },
+  "Los Angeles": {
+    "name": "Los Angeles",
+    "n_clusters": 34,
+    "n_noise": 5571,
+    "noise_pct": 37.14,
+    "primary_param": {
+      "eps_km": 0.6,
+      "min_samples": 40
+    },
+    "top_clusters": [
+      {
+        "cluster_id": 0,
+        "size": 130,
+        "pct_of_clustered_crimes": 1.38,
+        "median_latitude": 34.22945,
+        "median_longitude": -118.5362,
+        "extent_approx_km2": 4.74,
+        "estimated_density_per_km2": 27.4,
+        "top_categories": "BATTERY - SIMPLE ASSAULT (14), THEFT OF IDENTITY (12), BURGLARY (11)"
+      },
+      {
+        "cluster_id": 1,
+        "size": 3008,
+        "pct_of_clustered_crimes": 31.9,
+        "median_latitude": 34.0472,
+        "median_longitude": -118.286,
+        "extent_approx_km2": 107.396,
+        "estimated_density_per_km2": 28.0,
+        "top_categories": "VEHICLE - STOLEN (352), BATTERY - SIMPLE ASSAULT (249), ASSAULT WITH DEADLY WEAPON, AGGRAVATED ASSAULT (202)"
+      },
+      {
+        "cluster_id": 2,
+        "size": 530,
+        "pct_of_clustered_crimes": 5.62,
+        "median_latitude": 33.99165,
+        "median_longitude": -118.46765,
+        "extent_approx_km2": 14.177,
+        "estimated_density_per_km2": 37.4,
+        "top_categories": "BATTERY - SIMPLE ASSAULT (46), VANDALISM - FELONY ($400 & OVER, ALL CHURCH VANDALISMS) (46), BURGLARY (46)"
+      },
+      {
+        "cluster_id": 3,
+        "size": 984,
+        "pct_of_clustered_crimes": 10.44,
+        "median_latitude": 34.1758,
+        "median_longitude": -118.3774,
+        "extent_approx_km2": 44.901,
+        "estimated_density_per_km2": 21.9,
+        "top_categories": "VEHICLE - STOLEN (86), BATTERY - SIMPLE ASSAULT (78), BURGLARY FROM VEHICLE (76)"
+      },
+      {
+        "cluster_id": 4,
+        "size": 1518,
+        "pct_of_clustered_crimes": 16.1,
+        "median_latitude": 33.9426,
+        "median_longitude": -118.2696,
+        "extent_approx_km2": 39.907,
+        "estimated_density_per_km2": 38.0,
+        "top_categories": "ASSAULT WITH DEADLY WEAPON, AGGRAVATED ASSAULT (175), VEHICLE - STOLEN (156), INTIMATE PARTNER - SIMPLE ASSAULT (128)"
+      }
+    ]
+  },
+  "San Francisco": {
+    "name": "San Francisco",
+    "n_clusters": 15,
+    "n_noise": 1036,
+    "noise_pct": 6.906666666666666,
+    "primary_param": {
+      "eps_km": 0.35,
+      "min_samples": 30
+    },
+    "top_clusters": [
+      {
+        "cluster_id": 0,
+        "size": 12214,
+        "pct_of_clustered_crimes": 87.47,
+        "median_latitude": 37.78048,
+        "median_longitude": -122.41726,
+        "extent_approx_km2": 97.043,
+        "estimated_density_per_km2": 125.9,
+        "top_categories": "LARCENY THEFT (3213), ASSAULT (1043), OTHER MISCELLANEOUS (945)"
+      },
+      {
+        "cluster_id": 1,
+        "size": 910,
+        "pct_of_clustered_crimes": 6.52,
+        "median_latitude": 37.72998,
+        "median_longitude": -122.39157,
+        "extent_approx_km2": 14.235,
+        "estimated_density_per_km2": 63.9,
+        "top_categories": "LARCENY THEFT (133), MOTOR VEHICLE THEFT (93), ASSAULT (93)"
+      },
+      {
+        "cluster_id": 2,
+        "size": 75,
+        "pct_of_clustered_crimes": 0.54,
+        "median_latitude": 37.71161,
+        "median_longitude": -122.40328,
+        "extent_approx_km2": 0.981,
+        "estimated_density_per_km2": 76.4,
+        "top_categories": "LARCENY THEFT (15), MOTOR VEHICLE THEFT (12), OTHER MISCELLANEOUS (9)"
+      },
+      {
+        "cluster_id": 3,
+        "size": 94,
+        "pct_of_clustered_crimes": 0.67,
+        "median_latitude": 37.72382,
+        "median_longitude": -122.45716,
+        "extent_approx_km2": 1.111,
+        "estimated_density_per_km2": 84.6,
+        "top_categories": "LARCENY THEFT (27), BURGLARY (10), ASSAULT (9)"
+      },
+      {
+        "cluster_id": 4,
+        "size": 55,
+        "pct_of_clustered_crimes": 0.39,
+        "median_latitude": 37.76356,
+        "median_longitude": -122.47819,
+        "extent_approx_km2": 0.668,
+        "estimated_density_per_km2": 82.3,
+        "top_categories": "LARCENY THEFT (17), OTHER MISCELLANEOUS (8), BURGLARY (6)"
+      }
+    ]
+  },
+  "UK (Greater London Metro)": {
+    "name": "UK (Greater London Metro)",
+    "n_clusters": 3,
+    "n_noise": 16,
+    "noise_pct": 0.10666666666666667,
+    "primary_param": {
+      "eps_km": 0.4,
+      "min_samples": 40
+    },
+    "top_clusters": [
+      {
+        "cluster_id": 0,
+        "size": 11587,
+        "pct_of_clustered_crimes": 77.33,
+        "median_latitude": 51.51178,
+        "median_longitude": -0.12692,
+        "extent_approx_km2": 41.899,
+        "estimated_density_per_km2": 276.5,
+        "top_categories": "theft-from-the-person (3219), other-theft (2135), anti-social-behaviour (1595)"
+      },
+      {
+        "cluster_id": 1,
+        "size": 1432,
+        "pct_of_clustered_crimes": 9.56,
+        "median_latitude": 51.3781,
+        "median_longitude": -0.10106,
+        "extent_approx_km2": 9.801,
+        "estimated_density_per_km2": 146.1,
+        "top_categories": "violent-crime (348), anti-social-behaviour (331), shoplifting (122)"
+      },
+      {
+        "cluster_id": 2,
+        "size": 1965,
+        "pct_of_clustered_crimes": 13.11,
+        "median_latitude": 51.54648,
+        "median_longitude": -0.05695,
+        "extent_approx_km2": 9.71,
+        "estimated_density_per_km2": 202.4,
+        "top_categories": "violent-crime (406), anti-social-behaviour (378), theft-from-the-person (206)"
+      }
+    ]
+  }
+}

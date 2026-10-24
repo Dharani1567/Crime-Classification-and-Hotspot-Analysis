@@ -1,0 +1,4 @@
+cluster_id,size,pct_of_clustered_crimes,median_latitude,median_longitude,extent_approx_km2,estimated_density_per_km2,top_categories
+0,11587,77.33,51.51178,-0.12692,41.899,276.5,"theft-from-the-person (3219), other-theft (2135), anti-social-behaviour (1595)"
+1,1432,9.56,51.3781,-0.10106,9.801,146.1,"violent-crime (348), anti-social-behaviour (331), shoplifting (122)"
+2,1965,13.11,51.54648,-0.05695,9.71,202.4,"violent-crime (406), anti-social-behaviour (378), theft-from-the-person (206)"
