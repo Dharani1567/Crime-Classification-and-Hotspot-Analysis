@@ -1,0 +1,5 @@
+Dataset,Records,Columns,Date Range,Crime Categories,Latitude Available,Longitude Available,Missing Values
+Chicago,100000,31,2026-05-18 to 2026-10-15,31,"Yes (99,772 valid)","Yes (99,772 valid)",5924
+Los Angeles,100000,28,2020-01-01 to 2020-12-31,126,"Yes (99,549 valid)","Yes (99,549 valid)",546515
+San Francisco,100000,36,2018-01-01 to 2026-10-22,48,"Yes (41,705 valid)","Yes (41,705 valid)",1135079
+UK,174216,12,2024-01 to 2024-06,14,"Yes (174,216 valid)","Yes (174,216 valid)",48312

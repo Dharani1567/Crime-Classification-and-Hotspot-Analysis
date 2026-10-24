@@ -1,0 +1,17 @@
+feature,importance
+prev_7d_theft_count,0.40113646
+prev_7d_assault_count,0.14392093
+prev_30d_crime_count,0.11271216
+month,0.10240754
+cos_dayofweek,0.03902779
+prev_period_crime_count,0.03811755
+day_of_week_num,0.03505976
+sin_dayofweek,0.031705778
+hour,0.020516422
+cos_hour,0.01922711
+is_weekend,0.01902439
+sin_hour,0.016990552
+latitude,0.00609641
+longitude,0.00583975
+area_name_freq,0.0047132513
+area_freq,0.0035041773

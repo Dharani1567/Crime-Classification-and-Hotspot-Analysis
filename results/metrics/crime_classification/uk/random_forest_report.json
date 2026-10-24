@@ -1,0 +1,99 @@
+{
+  "anti-social-behaviour": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1201.0
+  },
+  "bicycle-theft": {
+    "precision": 0.1,
+    "recall": 0.005291005291005291,
+    "f1-score": 0.010050251256281407,
+    "support": 189.0
+  },
+  "burglary": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 333.0
+  },
+  "criminal-damage-arson": {
+    "precision": 0.109375,
+    "recall": 0.03508771929824561,
+    "f1-score": 0.05313092979127135,
+    "support": 399.0
+  },
+  "drugs": {
+    "precision": 0.3697916666666667,
+    "recall": 0.25448028673835127,
+    "f1-score": 0.30148619957537154,
+    "support": 279.0
+  },
+  "other-crime": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 93.0
+  },
+  "other-theft": {
+    "precision": 0.18478260869565216,
+    "recall": 0.10386965376782077,
+    "f1-score": 0.13298565840938723,
+    "support": 982.0
+  },
+  "possession-of-weapons": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 68.0
+  },
+  "public-order": {
+    "precision": 0.06770833333333333,
+    "recall": 0.022108843537414966,
+    "f1-score": 0.03333333333333333,
+    "support": 588.0
+  },
+  "robbery": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 243.0
+  },
+  "shoplifting": {
+    "precision": 0.47391304347826085,
+    "recall": 0.41709183673469385,
+    "f1-score": 0.44369063772048845,
+    "support": 784.0
+  },
+  "theft-from-the-person": {
+    "precision": 0.14832089552238806,
+    "recall": 0.4035532994923858,
+    "f1-score": 0.21691678035470668,
+    "support": 394.0
+  },
+  "vehicle-crime": {
+    "precision": 0.23510971786833856,
+    "recall": 0.1740139211136891,
+    "f1-score": 0.2,
+    "support": 431.0
+  },
+  "violent-crime": {
+    "precision": 0.4043430456294667,
+    "recall": 0.7296626984126984,
+    "f1-score": 0.5203395825963919,
+    "support": 2016.0
+  },
+  "accuracy": 0.42925,
+  "macro avg": {
+    "precision": 0.22095316508529333,
+    "recall": 0.22465423317045038,
+    "f1-score": 0.20799524093123087,
+    "support": 8000.0
+  },
+  "weighted avg": {
+    "precision": 0.36680695613152087,
+    "recall": 0.42925,
+    "f1-score": 0.3783660718325806,
+    "support": 8000.0
+  }
+}

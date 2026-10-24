@@ -1,0 +1,105 @@
+{
+  "ASSAULT": {
+    "precision": 0.2403846153846154,
+    "recall": 0.16891891891891891,
+    "f1-score": 0.1984126984126984,
+    "support": 296.0
+  },
+  "BURGLARY": {
+    "precision": 0.31932773109243695,
+    "recall": 0.18009478672985782,
+    "f1-score": 0.23030303030303031,
+    "support": 211.0
+  },
+  "DRUG OFFENSE": {
+    "precision": 0.44805194805194803,
+    "recall": 0.42857142857142855,
+    "f1-score": 0.4380952380952381,
+    "support": 161.0
+  },
+  "FRAUD": {
+    "precision": 0.3076923076923077,
+    "recall": 0.096,
+    "f1-score": 0.14634146341463414,
+    "support": 250.0
+  },
+  "LARCENY THEFT": {
+    "precision": 0.6160134647751864,
+    "recall": 0.863789615643965,
+    "f1-score": 0.7191578947368421,
+    "support": 2966.0
+  },
+  "LOST PROPERTY": {
+    "precision": 0.4744525547445255,
+    "recall": 0.2723463687150838,
+    "f1-score": 0.3460514640638864,
+    "support": 716.0
+  },
+  "MALICIOUS MISCHIEF": {
+    "precision": 0.09090909090909091,
+    "recall": 0.002544529262086514,
+    "f1-score": 0.0049504950495049506,
+    "support": 393.0
+  },
+  "MISSING PERSON": {
+    "precision": 0.2222222222222222,
+    "recall": 0.06315789473684211,
+    "f1-score": 0.09836065573770492,
+    "support": 95.0
+  },
+  "MOTOR VEHICLE THEFT": {
+    "precision": 0.707641196013289,
+    "recall": 0.7859778597785978,
+    "f1-score": 0.7447552447552448,
+    "support": 271.0
+  },
+  "NON-CRIMINAL": {
+    "precision": 0.3875598086124402,
+    "recall": 0.30566037735849055,
+    "f1-score": 0.34177215189873417,
+    "support": 265.0
+  },
+  "OTHER MISCELLANEOUS": {
+    "precision": 0.2524271844660194,
+    "recall": 0.27956989247311825,
+    "f1-score": 0.2653061224489796,
+    "support": 279.0
+  },
+  "OTHER OFFENSES": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 217.0
+  },
+  "RECOVERED VEHICLE": {
+    "precision": 0.8461120174007613,
+    "recall": 0.989192625556262,
+    "f1-score": 0.9120750293083235,
+    "support": 1573.0
+  },
+  "ROBBERY": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 107.0
+  },
+  "WARRANT": {
+    "precision": 0.3151515151515151,
+    "recall": 0.26,
+    "f1-score": 0.28493150684931506,
+    "support": 200.0
+  },
+  "accuracy": 0.615625,
+  "macro avg": {
+    "precision": 0.34852971043442393,
+    "recall": 0.31305495318297677,
+    "f1-score": 0.31536753300494247,
+    "support": 8000.0
+  },
+  "weighted avg": {
+    "precision": 0.5337624489752594,
+    "recall": 0.615625,
+    "f1-score": 0.5580783488046002,
+    "support": 8000.0
+  }
+}

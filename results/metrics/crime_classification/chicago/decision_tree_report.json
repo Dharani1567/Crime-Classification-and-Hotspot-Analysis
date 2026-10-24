@@ -1,0 +1,105 @@
+{
+  "ASSAULT": {
+    "precision": 0.15680473372781065,
+    "recall": 0.06424242424242424,
+    "f1-score": 0.09114359415305245,
+    "support": 825.0
+  },
+  "BATTERY": {
+    "precision": 0.45101171458998934,
+    "recall": 0.5350600126342387,
+    "f1-score": 0.48945391505345276,
+    "support": 1583.0
+  },
+  "BURGLARY": {
+    "precision": 0.19498607242339833,
+    "recall": 0.14989293361884368,
+    "f1-score": 0.1694915254237288,
+    "support": 467.0
+  },
+  "CRIMINAL DAMAGE": {
+    "precision": 0.1981230448383733,
+    "recall": 0.20948180815876516,
+    "f1-score": 0.20364415862808147,
+    "support": 907.0
+  },
+  "CRIMINAL SEXUAL ASSAULT": {
+    "precision": 0.5,
+    "recall": 0.08620689655172414,
+    "f1-score": 0.14705882352941177,
+    "support": 58.0
+  },
+  "CRIMINAL TRESPASS": {
+    "precision": 0.2727272727272727,
+    "recall": 0.04411764705882353,
+    "f1-score": 0.0759493670886076,
+    "support": 204.0
+  },
+  "DECEPTIVE PRACTICE": {
+    "precision": 0.3181818181818182,
+    "recall": 0.23268698060941828,
+    "f1-score": 0.2688,
+    "support": 361.0
+  },
+  "MOTOR VEHICLE THEFT": {
+    "precision": 0.2644341801385681,
+    "recall": 0.3961937716262976,
+    "f1-score": 0.3171745152354571,
+    "support": 578.0
+  },
+  "NARCOTICS": {
+    "precision": 0.453125,
+    "recall": 0.44274809160305345,
+    "f1-score": 0.44787644787644787,
+    "support": 262.0
+  },
+  "OTHER OFFENSE": {
+    "precision": 0.17054263565891473,
+    "recall": 0.08333333333333333,
+    "f1-score": 0.11195928753180662,
+    "support": 528.0
+  },
+  "PUBLIC PEACE VIOLATION": {
+    "precision": 0.3,
+    "recall": 0.05555555555555555,
+    "f1-score": 0.09375,
+    "support": 54.0
+  },
+  "ROBBERY": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 172.0
+  },
+  "SEX OFFENSE": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 38.0
+  },
+  "THEFT": {
+    "precision": 0.4095458044649731,
+    "recall": 0.5997745208568207,
+    "f1-score": 0.4867337602927722,
+    "support": 1774.0
+  },
+  "WEAPONS VIOLATION": {
+    "precision": 0.3,
+    "recall": 0.25396825396825395,
+    "f1-score": 0.27507163323782235,
+    "support": 189.0
+  },
+  "accuracy": 0.34525,
+  "macro avg": {
+    "precision": 0.2659654851167412,
+    "recall": 0.21021748198783682,
+    "f1-score": 0.21187380187004273,
+    "support": 8000.0
+  },
+  "weighted avg": {
+    "precision": 0.3093267527350487,
+    "recall": 0.34525,
+    "f1-score": 0.3144023027516326,
+    "support": 8000.0
+  }
+}

@@ -1,0 +1,5 @@
+Model,Accuracy,Macro Precision,Macro Recall,Macro-F1,Weighted-F1
+Logistic Regression,0.8214,0.7847,0.833,0.781,0.8208
+Decision Tree,0.8374,0.7761,0.7793,0.7776,0.8385
+Random Forest,0.8476,0.7968,0.8024,0.799,0.8467
+XGBoost,0.8886,0.8507,0.8298,0.8389,0.8869

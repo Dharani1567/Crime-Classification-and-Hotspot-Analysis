@@ -1,0 +1,37 @@
+Task,Dataset,Model,Accuracy,Macro-F1,Weighted-F1,Macro Precision,Macro Recall
+Crime Category Classification,Chicago,Logistic Regression,0.3439,0.1599,0.2592,0.1769,0.1886
+Crime Category Classification,Chicago,Decision Tree,0.3453,0.2119,0.3144,0.266,0.2102
+Crime Category Classification,Chicago,Random Forest,0.3724,0.2132,0.3108,0.3029,0.2235
+Crime Category Classification,Chicago,Support Vector Machine,0.3359,0.1587,0.2694,0.1939,0.1982
+Crime Category Classification,Chicago,XGBoost,0.3849,0.2486,0.3403,0.3139,0.2538
+Crime Category Classification,Los Angeles,Logistic Regression,0.4328,0.2673,0.3695,0.2865,0.3109
+Crime Category Classification,Los Angeles,Decision Tree,0.5281,0.4317,0.4979,0.4432,0.4513
+Crime Category Classification,Los Angeles,Random Forest,0.5447,0.422,0.4945,0.4944,0.453
+Crime Category Classification,Los Angeles,Support Vector Machine,0.3322,0.1612,0.2429,0.259,0.2155
+Crime Category Classification,Los Angeles,XGBoost,0.5717,0.4644,0.5316,0.4933,0.4878
+Crime Category Classification,San Francisco,Logistic Regression,0.5829,0.2104,0.4789,0.2098,0.237
+Crime Category Classification,San Francisco,Decision Tree,0.5999,0.3048,0.5502,0.3415,0.3005
+Crime Category Classification,San Francisco,Random Forest,0.6156,0.3154,0.5581,0.3485,0.3131
+Crime Category Classification,San Francisco,Support Vector Machine,0.5866,0.2213,0.4862,0.2523,0.2486
+Crime Category Classification,San Francisco,XGBoost,0.6168,0.3308,0.5678,0.4221,0.3286
+Crime Category Classification,UK,Logistic Regression,0.3251,0.1063,0.2423,0.106,0.1581
+Crime Category Classification,UK,Decision Tree,0.427,0.2388,0.3935,0.2687,0.2588
+Crime Category Classification,UK,Random Forest,0.4293,0.208,0.3784,0.221,0.2247
+Crime Category Classification,UK,Support Vector Machine,0.1673,0.0613,0.1399,0.0901,0.115
+Crime Category Classification,UK,XGBoost,0.4464,0.2408,0.3942,0.2978,0.256
+Crime Hotspot Classification,Chicago,Logistic Regression,0.8214,0.781,0.8208,0.7847,0.833
+Crime Hotspot Classification,Chicago,Decision Tree,0.8374,0.7776,0.8385,0.7761,0.7793
+Crime Hotspot Classification,Chicago,Random Forest,0.8476,0.799,0.8467,0.7968,0.8024
+Crime Hotspot Classification,Chicago,XGBoost,0.8886,0.8389,0.8869,0.8507,0.8298
+Crime Hotspot Classification,Los Angeles,Logistic Regression,0.8403,0.8105,0.8464,0.7967,0.8376
+Crime Hotspot Classification,Los Angeles,Decision Tree,0.8011,0.7567,0.8068,0.7464,0.7814
+Crime Hotspot Classification,Los Angeles,Random Forest,0.8034,0.766,0.8119,0.7554,0.8033
+Crime Hotspot Classification,Los Angeles,XGBoost,0.8728,0.8367,0.8763,0.8251,0.8558
+Crime Hotspot Classification,San Francisco,Logistic Regression,0.8502,0.7485,0.8467,0.7728,0.7301
+Crime Hotspot Classification,San Francisco,Decision Tree,0.8482,0.7727,0.8443,0.817,0.7427
+Crime Hotspot Classification,San Francisco,Random Forest,0.8596,0.789,0.8558,0.8355,0.7575
+Crime Hotspot Classification,San Francisco,XGBoost,0.8631,0.801,0.8601,0.8428,0.7714
+Crime Hotspot Classification,UK,Logistic Regression,0.8579,0.8137,0.8399,0.893,0.8042
+Crime Hotspot Classification,UK,Decision Tree,0.9346,0.9262,0.9342,0.9314,0.922
+Crime Hotspot Classification,UK,Random Forest,0.9483,0.9431,0.9484,0.9418,0.9444
+Crime Hotspot Classification,UK,XGBoost,0.9484,0.9426,0.9483,0.944,0.9413

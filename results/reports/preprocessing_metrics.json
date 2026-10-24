@@ -1,0 +1,34 @@
+{
+  "Chicago": {
+    "initial_rows": 100000,
+    "final_rows": 100000,
+    "duplicates_removed": 0,
+    "valid_coords_pct": 99.772,
+    "total_categories": 31,
+    "rare_categories_count": 6
+  },
+  "Los Angeles": {
+    "initial_rows": 100000,
+    "final_rows": 100000,
+    "duplicates_removed": 0,
+    "valid_coords_pct": 99.54899999999999,
+    "total_categories": 126,
+    "rare_categories_count": 56
+  },
+  "San Francisco": {
+    "initial_rows": 100000,
+    "final_rows": 98712,
+    "duplicates_removed": 1177,
+    "valid_coords_pct": 42.159008023340625,
+    "total_categories": 48,
+    "rare_categories_count": 14
+  },
+  "UK": {
+    "initial_rows": 174216,
+    "final_rows": 174216,
+    "duplicates_removed": 0,
+    "valid_coords_pct": 100.0,
+    "total_categories": 14,
+    "rare_categories_count": 0
+  }
+}

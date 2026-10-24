@@ -1,0 +1,105 @@
+{
+  "ASSAULT WITH DEADLY WEAPON, AGGRAVATED ASSAULT": {
+    "precision": 0.7366863905325444,
+    "recall": 0.7685185185185185,
+    "f1-score": 0.7522658610271903,
+    "support": 648.0
+  },
+  "BATTERY - SIMPLE ASSAULT": {
+    "precision": 0.5881670533642691,
+    "recall": 0.6627450980392157,
+    "f1-score": 0.6232329440688383,
+    "support": 765.0
+  },
+  "BURGLARY": {
+    "precision": 0.4770949720670391,
+    "recall": 0.6126255380200861,
+    "f1-score": 0.5364321608040201,
+    "support": 697.0
+  },
+  "BURGLARY FROM VEHICLE": {
+    "precision": 0.4151873767258383,
+    "recall": 0.6981757877280266,
+    "f1-score": 0.520717377860235,
+    "support": 603.0
+  },
+  "CRIMINAL THREATS - NO WEAPON DISPLAYED": {
+    "precision": 0.901840490797546,
+    "recall": 0.901840490797546,
+    "f1-score": 0.901840490797546,
+    "support": 163.0
+  },
+  "INTIMATE PARTNER - SIMPLE ASSAULT": {
+    "precision": 0.5895765472312704,
+    "recall": 0.6856060606060606,
+    "f1-score": 0.6339754816112084,
+    "support": 528.0
+  },
+  "ROBBERY": {
+    "precision": 0.4090909090909091,
+    "recall": 0.2702702702702703,
+    "f1-score": 0.325497287522604,
+    "support": 333.0
+  },
+  "THEFT FROM MOTOR VEHICLE - GRAND ($950.01 AND OVER)": {
+    "precision": 0.23943661971830985,
+    "recall": 0.06614785992217899,
+    "f1-score": 0.10365853658536585,
+    "support": 257.0
+  },
+  "THEFT FROM MOTOR VEHICLE - PETTY ($950 & UNDER)": {
+    "precision": 0.2809917355371901,
+    "recall": 0.06500956022944551,
+    "f1-score": 0.10559006211180125,
+    "support": 523.0
+  },
+  "THEFT OF IDENTITY": {
+    "precision": 0.45416666666666666,
+    "recall": 0.8304761904761905,
+    "f1-score": 0.5872053872053872,
+    "support": 525.0
+  },
+  "THEFT PLAIN - PETTY ($950 & UNDER)": {
+    "precision": 0.4890829694323144,
+    "recall": 0.2222222222222222,
+    "f1-score": 0.30559345156889495,
+    "support": 504.0
+  },
+  "THEFT-GRAND ($950.01 & OVER)EXCPT,GUNS,FOWL,LIVESTK,PROD": {
+    "precision": 0.24050632911392406,
+    "recall": 0.0778688524590164,
+    "f1-score": 0.11764705882352941,
+    "support": 244.0
+  },
+  "VANDALISM - FELONY ($400 & OVER, ALL CHURCH VANDALISMS)": {
+    "precision": 0.4685714285714286,
+    "recall": 0.3867924528301887,
+    "f1-score": 0.42377260981912146,
+    "support": 636.0
+  },
+  "VANDALISM - MISDEAMEANOR ($399 OR UNDER)": {
+    "precision": 0.2736842105263158,
+    "recall": 0.07926829268292683,
+    "f1-score": 0.12293144208037825,
+    "support": 328.0
+  },
+  "VEHICLE - STOLEN": {
+    "precision": 0.8346883468834688,
+    "recall": 0.9887640449438202,
+    "f1-score": 0.9052167523879501,
+    "support": 1246.0
+  },
+  "accuracy": 0.57175,
+  "macro avg": {
+    "precision": 0.4932514697506024,
+    "recall": 0.48775541598304756,
+    "f1-score": 0.46437179361827136,
+    "support": 8000.0
+  },
+  "weighted avg": {
+    "precision": 0.535581466242831,
+    "recall": 0.57175,
+    "f1-score": 0.531608693632533,
+    "support": 8000.0
+  }
+}

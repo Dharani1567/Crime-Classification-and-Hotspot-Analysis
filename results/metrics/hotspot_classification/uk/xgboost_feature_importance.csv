@@ -1,0 +1,12 @@
+feature,importance
+prev_30d_crime_count,0.59241396
+prev_7d_theft_count,0.24460934
+prev_7d_assault_count,0.11605188
+cos_month,0.009065856
+sin_month,0.0074664396
+month_num,0.007293067
+longitude,0.0067966115
+latitude,0.006707985
+street_name_freq,0.004919955
+location_type_freq,0.0046749
+prev_period_crime_count,0.0

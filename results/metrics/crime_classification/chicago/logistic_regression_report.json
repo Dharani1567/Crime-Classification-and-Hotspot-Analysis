@@ -1,0 +1,105 @@
+{
+  "ASSAULT": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 825.0
+  },
+  "BATTERY": {
+    "precision": 0.5201511335012594,
+    "recall": 0.52179406190777,
+    "f1-score": 0.5209713024282561,
+    "support": 1583.0
+  },
+  "BURGLARY": {
+    "precision": 0.12307692307692308,
+    "recall": 0.017130620985010708,
+    "f1-score": 0.03007518796992481,
+    "support": 467.0
+  },
+  "CRIMINAL DAMAGE": {
+    "precision": 0.20614035087719298,
+    "recall": 0.05181918412348401,
+    "f1-score": 0.0828193832599119,
+    "support": 907.0
+  },
+  "CRIMINAL SEXUAL ASSAULT": {
+    "precision": 0.6111111111111112,
+    "recall": 0.1896551724137931,
+    "f1-score": 0.2894736842105263,
+    "support": 58.0
+  },
+  "CRIMINAL TRESPASS": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 204.0
+  },
+  "DECEPTIVE PRACTICE": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 361.0
+  },
+  "MOTOR VEHICLE THEFT": {
+    "precision": 0.2780487804878049,
+    "recall": 0.3944636678200692,
+    "f1-score": 0.3261802575107296,
+    "support": 578.0
+  },
+  "NARCOTICS": {
+    "precision": 0.33171912832929784,
+    "recall": 0.5229007633587787,
+    "f1-score": 0.4059259259259259,
+    "support": 262.0
+  },
+  "OTHER OFFENSE": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 528.0
+  },
+  "PUBLIC PEACE VIOLATION": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 54.0
+  },
+  "ROBBERY": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 172.0
+  },
+  "SEX OFFENSE": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 38.0
+  },
+  "THEFT": {
+    "precision": 0.308437365475678,
+    "recall": 0.8077790304396844,
+    "f1-score": 0.44641744548286605,
+    "support": 1774.0
+  },
+  "WEAPONS VIOLATION": {
+    "precision": 0.2747747747747748,
+    "recall": 0.32275132275132273,
+    "f1-score": 0.29683698296836986,
+    "support": 189.0
+  },
+  "accuracy": 0.343875,
+  "macro avg": {
+    "precision": 0.17689730450893618,
+    "recall": 0.18855292158666087,
+    "f1-score": 0.15991334465043403,
+    "support": 8000.0
+  },
+  "weighted avg": {
+    "precision": 0.2437516044537485,
+    "recall": 0.343875,
+    "f1-score": 0.2591976072910319,
+    "support": 8000.0
+  }
+}

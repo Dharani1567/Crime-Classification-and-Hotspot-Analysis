@@ -1,0 +1,10 @@
+feature,importance
+outcome_category_freq,0.6052530059751562
+longitude,0.17271779427359554
+latitude,0.1107296989028559
+street_name_freq,0.08278286396837453
+month_num,0.01075528233791027
+cos_month,0.008792253507025996
+sin_month,0.004903656137665752
+location_type_freq,0.004065444897415677
+has_valid_coordinates,0.0
