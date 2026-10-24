@@ -14,9 +14,8 @@ data/raw/
 # Keep processed features and reports, but ignore massive intermediate CSVs if > 100MB
 # Raw files can be downloaded programmatically via python scripts/download_datasets.py
 
-# Model binary files (optional to track or ignore large weights)
+# Model binary files: track .pkl files, ignore uncompressed .joblib
 *.joblib
-*.pkl
 
 # IDE & OS
 .vscode/
